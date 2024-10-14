@@ -47,7 +47,7 @@
     <h1>HI PUUUU</h1>
     <nav>
         <a href="#about">ginagawa mo dito</a>
-        <a href="#services">ganda ko men</a>
+        <a href="#services">iyak salit, gawa na ulit</a>
         <a href="#contact">wag na magreview</a>
     </nav>
 </header>
@@ -58,8 +58,8 @@
 </section>
 
 <section id="services">
-    <h2>ganda ko men</h2>
-    <p>it is what it is</p>
+    <h2>iyak saglit, gawa na ulit</h2>
+    <p>it is what it is baks</p>
 </section>
 
 <section id="contact">
